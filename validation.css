@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+.container{
+width:25%;
+height:460px;
+background-color:#636363;
+border-radius: 10px;
+margin:0px 500px;
+}
+
+.main1{
+color:white;
+background-color:#90BC27;
+border-radius: 5px;
+height:50px;
+text-align:center;
+font-size:22px;
+}
+
+.heading {
+padding:8px 0px 0px 0px ;
+}
+
+.label1{
+margin:0px 0px 0px 20px ;
+font-size:18px;
+}
+
+.txtbox1{
+
+margin:-20px 0px 0px 20px ;
+}
+
+input[type=text],[type=password]{
+width:80%;
+height:25px;
+}
+
+.label2{
+margin:0px 0px 0px 20px ;
+font-size:18px;
+}
+
+.txtbox2{
+
+margin:-20px 0px 0px 20px ;
+}
+
+input[type=submit]{
+width:30%;
+height:35px;background-color:#90BC27;border-radius:6px;font-size:20px;margin:20px 0px 0px 120px ;padding:0px 0px ;
+}
